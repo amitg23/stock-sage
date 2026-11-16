@@ -7,8 +7,6 @@ StockSage researches current technology-company news, compares potential
 investment candidates, recommends a company, and can send the recommendation to
 your phone after you approve it.
 
-Try it at https://amitg23-stock-sage.hf.space
-
 ## How it works
 
 The interface is button-driven and has no text input. Click **Go!** to start the
